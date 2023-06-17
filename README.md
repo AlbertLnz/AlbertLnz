@@ -7,7 +7,7 @@
 </div>
 
 <p><i>Proactivo y comprometido con mi trabajo buscando siempre nuevas formas de mejorar mis habilidades y conocimientos para poder ofrecer soluciones innovadoras a los problemas que se presentan. :mage_man:</i></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&size=24&duration=4000&pause=100&color=31ABE0&multiline=true&repeat=false&width=435&height=75&lines=Full+Stack+web+developer;Always+learning+new+things!😄" alt="Title" /></a>
+<a href="https://github.com/AlbertLnz"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&size=24&duration=4000&pause=100&color=31ABE0&multiline=true&repeat=false&width=435&height=75&lines=Full+Stack+web+developer;Always+learning+new+things!😄" alt="Title" /></a>
 
   <h2 align="left">My Tech Stack:</h2>
 <table>

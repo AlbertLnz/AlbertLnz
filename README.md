@@ -69,7 +69,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://es.linkedin.com/in/albert-lanza-rio"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_albert_lanza_rio" height="30" width="40" /></a> &nbsp;
-  <a href="https://discord.com/users/818193746872762388"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="discord_albert_lanza_rio" height="30" width="40" /></a>
+  <a href="https://discord.com/users/818193746872762388"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord_albert_lnz" height="30" width="40" /></a>
 </p>
 
 <!-- Icons1 : https://dev.to/envoy_/150-badges-for-github-pnk -->

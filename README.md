@@ -50,6 +50,7 @@
   ![Git](https://img.shields.io/badge/-Git-%23F7DF1C?style=flat-square&logo=git&logoColor=white&labelColor=%23f54d27&color=%23f54d27)
   ![phpMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-%23F7DF1C?style=flat-square&logo=phpMyAdmin&logoColor=f8a627&labelColor=%23212529&color=%23212529)
   ![Postman](https://img.shields.io/badge/-Postman-%23F7DF1C?style=flat-square&logo=postman&logoColor=white&labelColor=%23ff6c37&color=%23ff6c37)
+  ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white)
 
   <h4>⚙️ Frameworks</h4>
 

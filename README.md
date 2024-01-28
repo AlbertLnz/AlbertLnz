@@ -30,8 +30,6 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23F7DF1C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=%236f2bf4&color=%236f2bf4)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-%23F7DF1C?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=%2338bdf8&color=%2338bdf8)
   ![React](https://img.shields.io/badge/-React-%61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=blue&color=blue)
-  ![NextJS](https://img.shields.io/badge/-NextJS-%61DAFB?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=black&color=black)
-  ![Astro](https://img.shields.io/badge/-Astro-%61DAFB?style=flat-square&logo=astro&logoColor=white&labelColor=purple&color=purple)
 
   <h4>👾 Back-End</h4>
 
@@ -40,7 +38,6 @@
   ![PHP](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=white&labelColor=%234f5b93&color=%234f5b93)
   ![Python](https://img.shields.io/badge/-Python-23F7DF1C?style=flat-square&logo=python&logoColor=ffd949&labelColor=%23234c6e&color=%23234c6e)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-%23404d59?style=flat-square&logo=express&logoColor=2361DAFB)
 
   <h4>🗂️ DataBase</h4>
   
@@ -59,6 +56,10 @@
   ![Laravel (PHP)](https://img.shields.io/badge/-Laravel_[PHP]-%23F7DF1C?style=flat-square&logo=laravel&logoColor=white&labelColor=%23f72618&color=%23f72618)
   ![Codeigniter (PHP)](https://img.shields.io/badge/-Codeigniter_[PHP]-%23F7DF1C?style=flat-square&logo=codeIgniter&logoColor=white&labelColor=%23dd4814&color=%23dd4814)
   ![FastAPI (Python)](https://img.shields.io/badge/-FastAPI_[Python]-%23F7DF1C?style=flat-square&logo=fastapi&logoColor=009485&labelColor=%232e303e&color=%232e303e)
+  ![NextJS](https://img.shields.io/badge/-NextJS_[JavaScript]-%61DAFB?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=black&color=black)
+  ![Astro](https://img.shields.io/badge/-Astro_[JavaScript]-%61DAFB?style=flat-square&logo=astro&logoColor=white&labelColor=purple&color=purple)
+  ![Express](https://img.shields.io/badge/-Express_[JavaScript]-%23404d59?style=flat-square&logo=express&logoColor=2361DAFB)
+
 
   </td>
 

@@ -29,6 +29,9 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23F7DF1C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=%236f2bf4&color=%236f2bf4)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-%23F7DF1C?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=%2338bdf8&color=%2338bdf8)
+  ![React](https://img.shields.io/badge/-React-%61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=blue&color=blue)
+  ![NextJS](https://img.shields.io/badge/-NextJS-%61DAFB?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=black&color=black)
+  ![Astro](https://img.shields.io/badge/-Astro-%61DAFB?style=flat-square&logo=astro&logoColor=white&labelColor=purple&color=purple)
 
   <h4>👾 Back-End</h4>
 

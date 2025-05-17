@@ -5,11 +5,10 @@
 &emsp; [![Linkedin: Albert Lanza](https://img.shields.io/badge/-Albert_Lanza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/albert-lanza-rio)](https://www.linkedin.com/in/albert-lanza-rio/)
 &emsp; [![GitHub Albert](https://img.shields.io/github/followers/AlbertLnz?label=follow&style=social)](https://github.com/AlbertLnz)
 </div>
-
 <p><i>Proactivo y comprometido con mi trabajo buscando siempre nuevas formas de mejorar mis habilidades y conocimientos para poder ofrecer soluciones innovadoras a los problemas que se presentan. :mage_man:</i></p>
-<a href="https://github.com/AlbertLnz"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&size=24&duration=4000&pause=100&color=31ABE0&multiline=true&repeat=false&width=435&height=75&lines=Full+Stack+web+developer;Always+learning+new+things!😄" alt="Title" /></a>
 
-  <h2 align="left">My Tech Stack:</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=3B8BD8&repeat=false&width=435&height=42&lines=Always+learning+new+things!+%F0%9F%98%84)](https://git.io/typing-svg)
+<h2 align="left">My Tech Stack:</h2>
 <table>
   <thead>
     <tr>
